@@ -1,6 +1,6 @@
 # LABERINTO XR
 
-**LABERINTO XR** is an independent, experimental and currently non-commercial XR project created by **Daniel Lopez Martinez** in Granada, Spain. It explores interactive narratives in which physical space and digital content both participate in the experience. The [official website](https://laberintoxr.io) is the canonical source for the project.
+**LABERINTO XR** is an independent, experimental and currently non-commercial XR project created by **Daniel Lopez Martinez** in Granada, Spain. It explores interactive narratives in which physical space and digital content both participate in the experience. The [official website](https://laberintoxr.io) is the canonical source for the project. Its domain uses the unspaced form LABERINTOXR for the same project.
 
 ## First experimental case: HEX001 — EL DESPERTAR
 
