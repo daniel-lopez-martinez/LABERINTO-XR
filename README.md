@@ -14,7 +14,7 @@ The [living research protocol](https://laberintoxr.io/en/research/hex001-spatial
 
 ## Technical context
 
-Development and documentation include Unity 6000.3.18f1 and OVER Unity SDK 0.5.0. These tools serve the narrative goal of using space as part of the storytelling language. A mention here does not claim a specific feature has been validated on a device.
+Development and documentation include Unity 6000.3.18f1 and OVER Unity SDK 0.5.0. These tools serve the narrative goal of using space as part of the storytelling language. A mention here does not claim a specific feature has been validated on a device. The [working technical overview](https://laberintoxr.io/technical-overview) distinguishes documented references, current project state and proposed validation.
 
 ## Repository scope
 
